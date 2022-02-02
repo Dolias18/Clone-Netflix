@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    background: var(--black);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+:root{
+    --red: #E50914;
+    --black: #141414;
+    --white: #FFFF;
+}
+span{
+    color: rgb(38, 109, 29);
+}
